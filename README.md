@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SreekarBharadwaj
-- 👀 I’m interested in Fornt end development and data analytics and ML
+- 👀 I’m interested in Fornt end development,Data analytics and ML
 - 🌱 I’m currently learning AI
 
 <!---
