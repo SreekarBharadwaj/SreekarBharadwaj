@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SreekarBharadwaj
 - 👀 I’m interested in Fornt end development,Data analytics and ML
-- 🌱 I’m currently learning AI
+- 🌱 I’m currently pursuing B-Tech in Amrita Vishwa Vidyapeetham in Kerala
 
 <!---
 SreekarBharadwaj/SreekarBharadwaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
